@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! Я Джуниор Дата-Аналитик 👋
 
-<!--
-**Diana-t666/Diana-t666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на сборе, очистке и визуализации данных для поиска бизнес-инсайтов и оптимизации процессов.
 
-Here are some ideas to get you started:
+### 🛠 Мой аналитический стек:
+* **Языки программирования:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Работа с БД:** SQL (MySQL, PostgreSQL) — написание сложных запросов, оконные функции, CTE, оптимизация
+* **BI-системы:** Power BI (DAX, Power Query) — построение интерактивных дашбордов для бизнеса
+* **Инструменты:** Jupyter Notebook, Git/GitHub, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мои ключевые пет-проекты:
+* [Анализ операционной эффективности колл-центра](ссылка_на_ваш_проект) — Оптимизация SLA и графиков смен с помощью SQL и Power BI.
+* *Здесь будут ваши 2-й и 3-й проекты, когда вы их добавите.*
+
+### 📬 Как со мной связаться:
+* **Telegram:** [@missdiean]
+* **Email:** [toktarbaidiana99@gmail.com]
