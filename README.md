@@ -12,8 +12,7 @@
 * ![PowerBI](https://shields.io)
 
 ### 🚀 Мои ключевые пет-проекты:
-* [Анализ операционной эффективности колл-центра]— Оптимизация SLA и графиков смен с помощью SQL и Power BI. https://github.com/Diana-t666/call-center-operations-analytics.
-
+* [Анализ операционной эффективности колл-центра](https://github.com/Diana-t666/call-center-operations-analytics) — Оптимизация SLA и графиков смен с помощью SQL и Power BI.
 ### 📬 Как со мной связаться:
 * **Telegram:** [@missdiean]
 * **Email:** [toktarbaidiana99@gmail.com]
